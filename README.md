@@ -16,7 +16,7 @@ This is a test project that will validate the following Acceptance Criteria:
 
 1. Clone the repository
 2. Run CMD
-3. type cd <project-folder>
+3. type cd [PROJECT_FOLDER] (locate where you clone the project)
 4. type mvn clean install
 5. type cd target
 6. type index.html (to view the results)
